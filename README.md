@@ -124,16 +124,27 @@
 
 ## 📊 GitHub Stats & Activity
 
+### 🌟 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritam646&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritam646&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+</p>
+
+### 🔥 Contribution Streak
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritam646&theme=dracula&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
+
+### 📈 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritam646&layout=compact&theme=dracula&hide_border=true" width="48%" alt="Top Languages" />
 </p>
+
+### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ritam646&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
+
+### 📅 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritam646&theme=dracula&hide_border=true&area=true&custom_title=Contribution+Graph" width="80%" alt="Contribution Graph" />
 </p>
