@@ -81,7 +81,7 @@
   🔗 **[github.com/Ritam646](https://github.com/Ritam646)**
 
 - ✍️ Personal Blog on Git, GitHub & Dev Diaries:  
-  🌐 **[ritam-patra-blog.vercel.app](https://v0-ritam-patra-blog-7jyqkh.vercel.app)**
+  🌐 **[ritam-patra-portfolio.netlify.app](https://grand-cascaron-e2da2c.netlify.app/)**
 
 ---
 
