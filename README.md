@@ -1,12 +1,12 @@
 # Ritam Patra  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&pause=800&color=00F5FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Tech+Universe!+%F0%9F%9A%80;ML+Engineer+%7C+Full+Stack+Innovator+%7C+Cloud+Architect;Building+Smart+Apps+with+Code+%26+Creativity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&pause=800&color=00F5FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Tech+Universe!+%F0%9F%9A%80;ML+Engineer+%7C+Full+Stack+Innovator+%7C+Cloud+Architect;Building+Smart+Apps+with+Code+%26+Creativity" alt="Typing SVG" />
 </p>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuR0qIu6Zkk/giphy.gif" width="60"/> Hey, I’m <span style="color:#00FF88; font-size: 40px;">Ritam Patra</span>
+  <img src="https://media.giphy.com/media/26xBwdIuR0qIu6Zkk/giphy.gif" width="60"/> Hey, I’m <span style="color:#00FF88; font-size: 48px;">Ritam Patra</span>
 </h1>
-<h3 align="center" style="font-size: 28px;">🌌 Pioneering AI, Cloud, and Web Solutions 🌌</h3>
+<h3 align="center" style="font-size: 32px;">🌌 Pioneering AI, Cloud, and Web Solutions 🌌</h3>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ritam646.Ritam646&color=00F5FF&style=flat-square" alt="Visitor Counter" />
@@ -88,7 +88,7 @@
   <img src="https://img.shields.io/badge/Serverless-Assess-FF4500?style=flat-square" alt="Serverless" />
   <img src="https://img.shields.io/badge/Web3-Hold-1E90FF?style=flat-square" alt="Web3" />
 </p>
-<p align="center" style="font-size: 20px;">
+<p align="center" style="font-size: 22px;">
   My tech radar highlights tools and trends I’m actively using, exploring, or evaluating for future projects.
 </p>
 
@@ -102,12 +102,6 @@
 - 🌐 **Personal Portfolio & Blog**: Dive into my tech journey, DevOps diaries, and AI insights at  
   🌍 [ritam-patra-portfolio.netlify.app](https://grand-cascaron-e2da2c.netlify.app/)
 
-- 🚀 **AI-Driven Chatbot**: A scalable chatbot built with LangChain and FastAPI, deployed on AWS with Kubernetes.  
-  🔗 [View Project](https://github.com/Ritam646/ai-chatbot)
-
-- 🌟 **Real-Time Data Dashboard**: A Next.js-based dashboard with real-time analytics using WebSocket and MongoDB.  
-  🔗 [View Project](https://github.com/Ritam646/realtime-dashboard)
-
 ---
 
 ## 📈 Recent Activity
@@ -116,6 +110,15 @@
 - 📝 Published a blog post on **[MLOps Best Practices](https://grand-cascaron-e2da2c.netlify.app/blog/mlops)** 
 - 🌐 Contributed to an open-source **LangChain** project on GitHub
 - 🎤 Spoke at a local tech meetup about **Cloud-Native AI**
+
+---
+
+## 🤝 Community Engagement
+
+- 🎓 Mentored 10+ students in a **ML Bootcamp** on TensorFlow and PyTorch
+- 🌐 Organized a **Hackathon** focused on AI and cloud solutions in Kolkata
+- 💬 Hosted a live Q&A session on **X** about MLOps best practices
+- 🌍 Collaborated with open-source communities on GitHub for AI projects
 
 ---
 
@@ -169,6 +172,6 @@
 - 🌍 Leading contributions to **open-source AI and cloud projects**
 - 📚 Sharing weekly tech insights on my blog and X
 
-<p align="center">
+<p align="center" style="font-size: 22px;">
   <img src="https://img.shields.io/badge/Let’s_Build_the_Future-FF2D55?style=flat-square&logo=rocket&logoColor=white" alt="Build the Future" />
 </p>
