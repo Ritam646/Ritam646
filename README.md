@@ -131,7 +131,10 @@
 
 ### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritam646&theme=dracula&hide_border=true" width="48%" alt="GitHub Streak" />
+  <!-- Fallback if streak fails: Using a static badge as a temporary measure -->
+  <img src="https://img.shields.io/badge/Contribution-Streak-FF4500?style=flat-square" alt="Contribution Streak" />
+  <!-- Original streak (uncomment if it works): -->
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritam646&theme=dracula&hide_border=true" width="48%" alt="GitHub Streak" /> -->
 </p>
 
 ### 📈 Most Used Languages
